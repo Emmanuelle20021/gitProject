@@ -32,7 +32,7 @@ public class GitProyectTest {
         ArrayList ExpectedResult;
         ExpectedResult = new ArrayList();
         for(int i = initValue + 1; i<endValue; i++)
-            if(i%2 != 0)
+            if(i%2 == 0)
                 ExpectedResult.add(i);
         assertEquals(ExpectedResult, GitProyect.NumbersBettewn(initValue,endValue));
     }

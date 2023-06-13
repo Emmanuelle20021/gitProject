@@ -22,7 +22,7 @@ public class GitProyect {
     public static ArrayList NumbersBettewn(int init , int end){
         ArrayList numbersBettewn = new ArrayList();
         for (int i = init + 1; i < end; i++) {
-            if(i%2 != 0)
+            if(i%2 == 0)
                 numbersBettewn.add(i);
             
         }
