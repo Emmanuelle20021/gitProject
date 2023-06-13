@@ -1,1 +1,1 @@
-Esto es el manifiesto comunista ahora
+Proyecto de git para la materia de despliegue de aplicaciones.
