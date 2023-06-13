@@ -1,0 +1,1 @@
+Esto es el manifiesto comunista ahora
